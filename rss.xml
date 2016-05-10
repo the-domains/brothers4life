@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Brothers4life]]></title>
         <description><![CDATA[Brothers4life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brothers4life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 20:10:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 20:11:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brothers4life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8959108f-ea2d-4a11-b1e6-4dde5cc53e1b.jpg">]]></description>
-            <link>undefinedb4l-bjj-huelva/index.html</link>
+            <link>https://thegrid.ai/brothers4life/b4l-bjj-huelva/index.html</link>
             <guid isPermaLink="false">0dac432f-23ed-47ce-ae32-268e30234a23</guid>
-            <pubDate>Tue, 10 May 2016 20:10:28 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 20:11:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
