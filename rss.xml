@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brothers4life]]></title>
-        <description><![CDATA[Brothers4life]]></description>
+        <title><![CDATA[B4L Brazilian Jiu Jitsu]]></title>
+        <description><![CDATA[B4L Brazilian Jiu Jitsu]]></description>
         <link>https://thegrid.ai/brothers4life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 20:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 20:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brothers4life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Localizacion]]></title>
+            <description><![CDATA[<p>Ubicacion de las clases de B4L BJJ</p>]]></description>
+            <link>https://thegrid.ai/brothers4life/localizacion/index.html</link>
+            <guid isPermaLink="false">068005a7-26f9-4837-9c56-372388c53cf7</guid>
+            <pubDate>Tue, 10 May 2016 20:29:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8959108f-ea2d-4a11-b1e6-4dde5cc53e1b.jpg">]]></description>
