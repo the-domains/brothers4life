@@ -1,7 +1,7 @@
-name: Brothers4life
+name: B4L Brazilian Jiu Jitsu
 favicon: null
-layout_spectrum: 0.9246032035443932
-typography_spectrum: 0.49615062843076885
+layout_spectrum: 0.44898
+typography_spectrum: 0.59849
 title: B4L Brazilian Jiu Jitsu
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6500325419474393
-  lightness: 0.07668538182042539
+    - '#2d2147'
+    - '#ae172a'
+    - '#f7f7f7'
+    - '#e0a140'
+    - '#847a92'
+  brandStrength: 0.6875
+  lightness: 0.25
   saturation: 0.636578707722947
-  rhythmicContrast: 0.3090039952658117
+  rhythmicContrast: 0.75
 purpose: []
