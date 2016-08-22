@@ -1,7 +1,18 @@
+layout_spectrum: 0.8798490206245333
+typography_spectrum: 0.5076658301986754
+color:
+  brandColors:
+    - '#2d2147'
+    - '#ae172a'
+    - '#f7f7f7'
+    - '#e0a140'
+    - '#847a92'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.636578707722947
+  rhythmicContrast: 0.75
 name: B4L Brazilian Jiu Jitsu
 favicon: null
-layout_spectrum: 0.44898
-typography_spectrum: 0.59849
 title: B4L Brazilian Jiu Jitsu
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2d2147'
-    - '#ae172a'
-    - '#f7f7f7'
-    - '#e0a140'
-    - '#847a92'
-  brandStrength: 0.6875
-  lightness: 0.25
-  saturation: 0.636578707722947
-  rhythmicContrast: 0.75
 purpose: []
